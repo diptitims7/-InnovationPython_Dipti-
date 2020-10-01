@@ -1,2 +1,2 @@
 # InnovationPython_Dipti
-This repository is for my First assignment.
+This repository is for my first assignment.
