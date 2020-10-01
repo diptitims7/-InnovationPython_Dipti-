@@ -1,2 +1,2 @@
 # Dipti Timilsina
-I have created this repository for my assignment submission.
+This repository is for my First assignment.
